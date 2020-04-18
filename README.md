@@ -46,19 +46,6 @@ https://pan.bxxdu.com/s/1jxP5vznx3_XvHrPKv1yhKg 提取码：97zc
 <br/>
 <br/>
 
-#### （投票调查）是否需要自己部署后台服务器？
-
-理论上大家可以自己搭建后台服务器，这样就不需要等待排队拉取了，下载速度完全取决于你自己的服务器的宽带<br/>
-* 你需要有一个BD超级VIP账号
-* 你需要有一个稳定运行的服务器并且硬盘够大，网速够快（包括下载和上传速度都要快）
-* 服务器需要配置IIS(.net api),安装mssql数据库，安装监控程序，安装下载程序，修改程序的配置文件
-* 不换IP的话，在解析数十个链接后，每解析一个链接都需要你手动输入验证码
-* 发布了教程后，一切配置问题我都没时间帮助你，遇到问题需要自行摸索（ 每个人系统环境+配置都不太一样 ）
-
-[![](https://api.gh-polls.com/poll/01E63G20EVMP01VAS3573J490T/%E6%88%91%E6%83%B3%E6%88%91%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BA)](https://api.gh-polls.com/poll/01E63G20EVMP01VAS3573J490T/%E6%88%91%E6%83%B3%E6%88%91%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BA/vote)
-[![](https://api.gh-polls.com/poll/01E63G20EVMP01VAS3573J490T/%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A4%AA%E9%BA%BB%E7%83%A6BUG%E4%B9%9F%E5%A4%9A)](https://api.gh-polls.com/poll/01E63G20EVMP01VAS3573J490T/%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A4%AA%E9%BA%BB%E7%83%A6BUG%E4%B9%9F%E5%A4%9A/vote)
-  
-<br/><br/>
 
 ---
 
