@@ -6,7 +6,7 @@ PDown下载器
 ![demo](down600.gif)
 
 
-#### [蓝奏云 5-25 18:00 下载地址  https://www.lanzoux.com/iczyreh](https://www.lanzoux.com/iczyreh)
+#### [蓝奏云 5-25 18:00 下载地址  https://www.lanzoux.com/id0bqfa](https://www.lanzoux.com/id0bqfa)
 ---
 ### 0.更新时间：2020-5-25，请参阅 [更新日志.md](更新日志.md)  
 v2版刚发布,有不少BUG,多点耐心  QQ交流群:855520833
